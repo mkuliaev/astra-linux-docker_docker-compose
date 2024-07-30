@@ -1,4 +1,4 @@
-# astra-linux-docker_docker-compose
+# astra linux docker_docker-compose
 
 ### Шаг 1: Установка Docker
 
